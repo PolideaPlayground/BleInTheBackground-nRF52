@@ -61,12 +61,8 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="11062" useTextEdit="1" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="11015" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="99" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/util/app_error_weak.c" selected="1" top="89" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="236" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/bsp/bsp_btn_ble.c" selected="0" top="214" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="131" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/bsp/bsp.c" selected="0" top="109" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="90" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/bsp/bsp_btn_ble.h" selected="0" top="63" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="947" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../main.c" selected="0" top="937" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="99" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/util/app_error_weak.c" selected="0" top="89" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="948" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="261" codecName="Default"/>
  </Files>
  <ARMCrossStudioWindow activeProject="ble_app_background_test_pca10040_s132" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="/Users/przemyslawlenart/git/flipperinc/firmware/Flipper/ble_peripheral/goggles" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>

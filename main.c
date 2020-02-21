@@ -276,9 +276,11 @@ static void gatt_evt_handler(nrf_ble_gatt_t * p_gatt, nrf_ble_gatt_evt_t const *
         case NRF_BLE_GATT_EVT_ATT_MTU_UPDATED:
             NRF_LOG_INFO("MTU updated: %d", p_evt->params.att_mtu_effective);
             break;
+#if !defined (S112) && !defined(S312)
         case NRF_BLE_GATT_EVT_DATA_LENGTH_UPDATED:
             NRF_LOG_INFO("DLE updated: %d", p_evt->params.data_length);
             break;
+#endif
     }   
 }
  
